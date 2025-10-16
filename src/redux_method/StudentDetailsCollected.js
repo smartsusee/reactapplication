@@ -115,6 +115,8 @@ const StudentDetailsCollected = () => {
             })}
         </tbody>
       </table>
+
+      <h1>hello</h1>
     </>
   );
 };
