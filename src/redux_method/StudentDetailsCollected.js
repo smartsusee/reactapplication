@@ -118,6 +118,7 @@ const StudentDetailsCollected = () => {
 
       <h1>hello welcome</h1>
        <h2>how are you</h2>   
+          <h3>a = 56</h3>
     </>
   );
 };
